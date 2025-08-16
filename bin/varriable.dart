@@ -1,4 +1,4 @@
-void main() {
+Jvoid main() {
   var dynamicVar = 42;
 
   ///as a int
